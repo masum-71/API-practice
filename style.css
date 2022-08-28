@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+  }
+  main {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 15px;
+  }
+
+  .card {
+    background-color: beige;
+    border-radius: 15px;
+    padding: 10px;
+  }
